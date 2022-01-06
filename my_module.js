@@ -7,3 +7,8 @@ function moduleSub (a,b){
 
     return a-b;
 }
+
+function moduleMul(a,b){
+
+    return a*b;
+}
